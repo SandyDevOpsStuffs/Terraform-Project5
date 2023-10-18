@@ -1,0 +1,3 @@
+# Ignore the terraform-provider-azurerm binary
+terraform-provider-azurerm
+
